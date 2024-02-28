@@ -1,5 +1,5 @@
 
-# Title
+# Assignement 07: Functions 
   **Dev:** *RLarson*  
   **Date:** *2.27.2024*
 ## Introduction
